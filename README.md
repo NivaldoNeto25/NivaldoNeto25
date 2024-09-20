@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá! Eu sou Nivaldo 👋
 
-<!--
-**NivaldoNeto25/NivaldoNeto25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Sistemas de Informação e estou começando minha jornada na área de programação. Aqui você vai encontrar alguns dos meus primeiros projetos, onde estou explorando linguagens de programação.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Atualmente, estou aprendendo a programar.
+- Estou sempre buscando aprender e explorar novas tecnologias.
+
+## Como me encontrar
+
+- 💬 Fique à vontade para me chamar para conversar.
+- 📫 Você pode me encontrar no [[LinkedIn](https://www.linkedin.com/in/nivaldo-neto-522265304/)] ou enviar um e-mail para [nivaldonetocontato@gmail.com](mailto:seuemail@exemplo.com).
