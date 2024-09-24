@@ -7,8 +7,6 @@ Sou estudante de Sistemas de Informação e estou começando minha jornada na á
 - Atualmente, estou aprendendo a programar.
 - Estou sempre buscando aprender e explorar novas tecnologias.
 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=johnmwendwa&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
 ## Como me encontrar
 
 - 💬 Fique à vontade para me chamar para conversar.
