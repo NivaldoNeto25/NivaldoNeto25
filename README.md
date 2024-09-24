@@ -7,9 +7,10 @@ Sou estudante de Sistemas de Informação e estou começando minha jornada na á
 - Atualmente, estou aprendendo a programar.
 - Estou sempre buscando aprender e explorar novas tecnologias.
 
+## Stats
+
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=NivaldoNeto25&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-## Como me encontrar
+## Contato
 
-- 💬 Fique à vontade para me chamar para conversar.
 - 📫 Você pode me encontrar no [[LinkedIn](https://www.linkedin.com/in/nivaldo-neto-522265304/)] ou enviar um e-mail para [nivaldonetocontato@gmail.com](mailto:seuemail@exemplo.com).
