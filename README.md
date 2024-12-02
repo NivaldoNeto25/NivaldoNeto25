@@ -1,16 +1,33 @@
-# Olá! Eu sou Nivaldo <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+# 👋 Olá! Eu sou Nivaldo Neto
 
-Sou estudante de Sistemas de Informação e estou começando minha jornada na área de programação. Aqui você vai encontrar alguns dos meus primeiros projetos, onde estou explorando linguagens de programação.
+Sou estudante de **Sistemas de Informação**, começando minha jornada na área de programação. Aqui você encontrará alguns dos meus primeiros projetos e aprendizados. 🚀  
 
-## Sobre Mim
+---
+
+## 🧑‍💻 Sobre mim
 
 - Atualmente, estou aprendendo a programar.
 - Estou sempre buscando aprender e explorar novas tecnologias.
 
-## Stats
+---
 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=NivaldoNeto25&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+## 📊 Estatísticas
 
-## Contato
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=NivaldoNeto25&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="Estatísticas do GitHub" 
+    height="200"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NivaldoNeto25&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+    alt="Linguagens mais usadas"
+    height="200"
+  />
+</div>
 
-- 📫 Você pode me encontrar no [[LinkedIn](https://www.linkedin.com/in/nivaldo-neto-522265304/)] ou enviar um e-mail para [nivaldonetocontato@gmail.com](mailto:seuemail@exemplo.com).
+---
+
+## 📬 Contato
+- 🌐 **[LinkedIn](https://www.linkedin.com/in/nivaldo-neto-522265304/)**  
+- ✉️ **[nivaldonetocontato@gmail.com](mailto:nivaldonetocontato@gmail.com)**  
