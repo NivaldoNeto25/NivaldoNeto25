@@ -11,7 +11,7 @@ Sou estudante de **Sistemas de Informação**, começando minha jornada na área
 
 ---
 
-## 📊 Estatísticas
+//## 📊 Estatísticas
 
 <table>
   <tr>
@@ -30,7 +30,7 @@ Sou estudante de **Sistemas de Informação**, começando minha jornada na área
       />
     </td>
   </tr>
-</table>
+</table>//
 
 ---
 
