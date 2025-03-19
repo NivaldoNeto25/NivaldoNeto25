@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Nivaldo Neto
+<!--# 👋 Olá! Eu sou Nivaldo Neto
 
 Sou estudante de **Sistemas de Informação**, começando minha jornada na área de programação. Aqui você encontrará alguns dos meus primeiros projetos e aprendizados. 🚀  
 
@@ -11,7 +11,7 @@ Sou estudante de **Sistemas de Informação**, começando minha jornada na área
 
 ---
 
-<!--## 📊 Estatísticas
+## 📊 Estatísticas
 
 <table>
   <tr>
