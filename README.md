@@ -1,15 +1,16 @@
+
 # Olá! Eu sou o Nivaldo 👋
 
-Desenvolvedor em formação | Apaixonado por tecnologia  
-Sempre buscando novos aprendizados e desafios.
+Graduando em Sitemas de Informação
 
 ---
 
 ## 📊 GitHub Stats
 
-![Nivaldo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NivaldoNeto25&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NivaldoNeto25&layout=compact&theme=tokyonight)
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NivaldoNeto25&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NivaldoNeto25&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
