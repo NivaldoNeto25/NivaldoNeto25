@@ -1,39 +1,27 @@
-<!--# 👋 Olá! Eu sou Nivaldo Neto
+<h1 align="center">Olá! Eu sou o Nivaldo 👋</h1>
 
-Sou estudante de **Sistemas de Informação**, começando minha jornada na área de programação. Aqui você encontrará alguns dos meus primeiros projetos e aprendizados. 🚀  
-
----
-
-## 🧑‍💻 Sobre mim
-
-- Atualmente, estou aprendendo a programar.
-- Estou sempre buscando aprender e explorar novas tecnologias.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+formação;Sempre+em+busca+de+novos+desafios;Aprendendo+e+evoluindo+todos+os+dias" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📊 Estatísticas
+### 📊 Minhas Estatísticas no GitHub
 
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=NivaldoNeto25&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-        alt="Estatísticas do GitHub" 
-        height="200"
-      />
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=NivaldoNeto25&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-        alt="Linguagens mais usadas"
-        height="200"
-      />
-    </td>
-  </tr>
-</table> -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NivaldoNeto25&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NivaldoNeto25&layout=compact&theme=tokyonight"/>
+</div>
 
 ---
 
-## 📬 Contato
-- 🌐 **[LinkedIn](https://www.linkedin.com/in/nivaldo-neto-522265304/)**  
-- ✉️ **[nivaldonetocontato@gmail.com](mailto:nivaldonetocontato@gmail.com)**  
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nivaldo-neto-522265304)](https://www.linkedin.com/in/nivaldo-neto-522265304)
+[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:nivaldonetocontato@gmail.com)
+
+---
+
+### 🐍 Snake nos commits
+
+![snake gif](https://github.com/NivaldoNeto25/NivaldoNeto25/blob/output/github-contribution-grid-snake.svg)
