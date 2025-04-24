@@ -1,15 +1,16 @@
-
 # Olá! Eu sou o Nivaldo 👋
 
-Graduando em Sitemas de Informação
+Graduando em Sistemas de Informação
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NivaldoNeto25&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NivaldoNeto25&layout=compact&theme=tokyonight"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NivaldoNeto25&show_icons=true&theme=radical"/>
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NivaldoNeto25&layout=compact&theme=radical"/>
 </p>
 
 ---
