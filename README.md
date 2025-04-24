@@ -6,9 +6,10 @@ Graduando em Sistemas de Informação
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NivaldoNeto25&show_icons=true&theme=radical"/>
-  &nbsp;&nbsp;&nbsp;
+</p>
+<p align="left"
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NivaldoNeto25&layout=compact&theme=radical"/>
 </p>
 
