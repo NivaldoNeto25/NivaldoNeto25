@@ -3,18 +3,18 @@
 
 ---
 
-### 🛠️ Tecnologias e Linguagens Utilizadas
-
-[![Minhas Skills](https://skillicons.dev/icons?i=python,c,java,git&perline=10)](#)
-
----
-
 ### 📊 GitHub Stats
 
 <div>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NivaldoNeto25&show_icons=true&count_private=true&hide_border=true&title_color=64B5F6&icon_color=64B5F6&text_color=dedede&bg_color=0d1117" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NivaldoNeto25&layout=compact&hide_border=true&title_color=64B5F6&text_color=dedede&bg_color=0d1117" />
 </div>
+
+---
+
+### 🛠️ Tecnologias e Linguagens Utilizadas
+
+[![Minhas Skills](https://skillicons.dev/icons?i=python,c,java,git&perline=10)](#)
 
 ---
 
