@@ -1,5 +1,5 @@
 <!-- Animação com texto digitando -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=64B5F6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Nivaldo+👋;Graduando+em+Sistemas+de+Informação;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=64B5F6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Nivaldo+👋;Graduando+em+Sistemas+de+Informação;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ---
 
